@@ -1,0 +1,314 @@
+{
+    "Home" : {
+        "header_home": "ElectryConsulting, la consultoría energética con más trayectoria del país",
+        "header_home_btn": "Súmate a nuestra red de consultores",
+        "Servicios": "Servicios",
+        "Gestion_energetica": "Gestión energética",
+        "Gestion_energetica_text": "Ofrecemos soluciones energéticas destinadas a conseguir un ahorro duradero para nuestros usuarios.",
+        "Estudios_tecnicos": "Estudios técnicos",
+        "Estudios_tecnicos_text": "Ponemos a tu servicio la realización gratuita de auditorías energéticas para optimizar tus instalaciones de luz y gas.",
+        "Monitorizacion": "Monitorización",
+        "Monitorizacion_text": "Gracias a la tecnología más puntera realizamos un seguimiento de tus suministros para mejorar la oferta siempre que sea posible.",
+        "Eficiencia_energetica": "Eficiencia energética",
+        "Eficiencia_energetica_text": "Nuestro objetivo es promover el uso responsable de la energía para proteger los recursos que nos ofrece el planeta y cumplir con la normativa vigente.",
+        "Ya_puedes_pagar_menos": "Ya puedes pagar menos por tus facturas de luz y gas",
+        "Asesoría_100": "Asesoría 100% personalizada",
+        "Siempre_tendrás_un_asesor": "Siempre tendrás un asesor energético a tu disposición que te ayudará a reducir los costes derivados de tus suministros.",
+        "Lideres_en_optimizacion": "Líderes en optimización energética",
+        "Con_mas_de_10": "Con más de 10 años de experiencia, ElectryConsulting lidera la reducción de costes energéticos en pymes y empresas.",
+        "Formacion_continua": "Formación continua",
+        "Consideramos_que_la_formacion": "Consideramos que la formación es imprescindible para desarrollar la actividad en un sector en constante cambio como es el energético.",
+        "Lo_que_nos_diferencia": "Lo que nos diferencia",
+        "Emprendimiento": "Emprendimiento",
+        "Contamos_con_una_incubadora": "Contamos con una incubadora propia de proyectos en fase de iniciación a través de la que los comerciales pueden desarrollar sus negocios. <a href='https://estart.electryconsulting.com/' target='blank'> Consulta aquí las condiciones</a>",
+        "Internacionalizacion": "Internacionalización",
+        "Ademas_de_gestionar": "Además de gestionar la energía en España también lo hacemos en Portugal y, próximamente, en otros países europeos.",
+        "Trabaja_con_nosotros": "Trabaja con nosotros",
+        "unete_a_la_red": "Únete a la red de asesores energéticos más grande del sector",
+        "Ofertas_disponibles":"Ofertas disponibles",
+        "Nuestros_eventos":"Nuestros eventos"
+
+    },
+    
+    "Somos" : {
+        "La_empresa" : "La empresa",
+        "Quienes_somos" : "Quiénes somos",
+        "text_quienes_somos" : "ElectryConsulting es una consultoría energética con <strong>una trayectoria profesional en el sector de más de 10 años</strong> y una cartera de clientes en constante crecimiento.<br><br> <strong>Reducimos las facturas eléctricas</strong> de pymes, grandes empresas y también particulares a través de un servicio personalizado de gestión energética.<br><br>    Con <strong>más de 50 delegaciones</strong> repartidas por distintos lugares, ElectryConsulting está presente en todas las comunidades autónomas del país y ahora también en Portugal. La clave del éxito de ElectryConsulting está en la fraguada estructura de asesores energéticos que hacen posible, gracias a su labor comercial, que seamos la compañía líder en la gestión y optimización de energía.<br><br>    Creemos en la <strong> formación </strong> de nuestros asesores energéticos como la clave del éxito nacional e internacional. El sector energético es un campo en continuo cambio que requiere un conocimiento específico para desarrollar la actividad comercial. Formamos a nuestra propia estructura para fomentar el desarrollo de carrera profesional y la creación de empleo estable. <br>",
+        "Mision" : "Misión",
+        "text_mision" : "La misión principal de ElectryConsulting es <strong>ofrecer soluciones</strong> que permitan a los usuarios <strong> reducir los costes </strong> derivados del consumo energético, así como proporcionarles las herramientas y medidas necesarias para una correcta gestión de la energía.<br> <br>Para actuar bajo parámetros de eficiencia energética es primordial entender los conceptos que integran una factura eléctrica. En este sentido, <strong>contar con un asesor energético </strong>será de gran ayuda para solventar aquellas dudas derivadas de los suministros que puedan surgir.<br><br>El fin último de ElectryConsulting es que todos sus clientes dispongan de la información necesaria para poder tomar decisiones que les ayuden a optimizar sus suministros eléctricos.<br>",
+        "Vision" : "Visión",
+        "text_vision" : "El modelo energético está cambiando. Las formas alternativas de producir energía a partir de fuentes renovables están tomando peso y las pymes y empresas tienen mucho que aportar.<br /><br />En esta transformación hacia un <strong> sistema basado en las energías renovables </strong>accesibles para todos, la figura del asesor energético es imprescindible para acercar a todos los consumidores la nueva política al respecto.<br /><br />El sector industrial es una de las principales fuentes de contaminación por lo que <strong>adquirir nuevos hábitos y desarrollar medidas que reduzcan las emisiones de gases </strong>es uno de los principales retos a los que se enfrenta la industria. <br /><br />ElectryConsulting pone al servicio de pymes y grandes empresas todo el conocimiento adquirido a lo largo de los más de 10 años de trayectoria profesional en este sector, así como distintas <strong> herramientas y técnicas centradas en el ahorro </strong> energético y económico.<br /><br /><br />",
+        "Valores" : "Valores",
+        "text_valores" : "<strong>Experiencia:&nbsp;</strong>Más de 10 años reduciendo el coste de<br>los suministros de luz y gas de pymes y grandes<br>empresas a través de medidas de eficiencia<br>energética. <br><br><strong>Transparencia:</strong>&nbsp;Todas nuestras acciones son supervisadas por los usuarios y no damos un paso sin contar con la aprobación previa de los clientes.<br><br><strong>Continuidad:&nbsp;</strong>Te asesoramos antes, durante y después de haber completado el proceso de instalación u optimización de tus suministros. Siempre nos tendrás a tu disposición.<br><br>  <strong>Fidelidad:</strong>&nbsp;Nuestros clientes son el componente principal de la compañía y, por ello, centramos nuestros esfuerzos en brindar un servicio adaptado a sus necesidades que cumpla expectativas. <br><br> <strong>Responsabilidad Social Corporativa:&nbsp;</strong>Como empresa que centra su actividad en la energía creemos que es posible combinar desarrollo económico, social y ambiental en la misma estrategia.<br><br> <strong>Buen servicio:&nbsp;</strong> Contamos con un gran equipo experto en la asesoría que cuida cada detalle y siempre está a disposición de los usuarios.<br>"    
+    },
+
+    "Delegaciones": {
+        "Delegaciones": "Delegaciones",
+        "Delegaciones_subtitulo": "ElectryConsulting cuenta con delegaciones repartidas por España, Portugal e Italia.",
+        "cta_crea_delegacion_titulo": "Crea tu propia delegación",
+        "cta_crea_delegacion_texto": "En ElectryConsulting siempre estamos dispuestos a compartir nuestro modelo de éxito para sumar socios colaboradores. Rellena el siguiente formulario, estaremos encantados de conocerte."
+    },
+
+    
+    "Nueva_Delegacion": {
+        "nuevas_delegaciones": "Buscamos nuevas delegaciones",
+        "nuevas_delegaciones_text": "Representa una marca comercial de valor con garantías de servicio en el asesoramiento energético",
+        "nuevas_delegaciones_parrafo": "ElectryConsulting es una consultoría energética líder en el sector cuyo objetivo es reducir los costes derivados de los suministros de luz y gas. Más de una década ofreciendo soluciones energéticas nos han llevado a contar con una cartera de más de 55.000 usuarios. Tú también puedes formar parte de este modelo de éxito. Crea tu propia delegación y forma un equipo experto de asesores energéticos.",
+        "Nuestras_ventajas": "Nuestras ventajas:",
+        "ventajas1": "Trabajamos con las principales comercializadoras energéticas a nivel nacional lo que nos permite mejorar la oferta actual de tus clientes.",
+        "ventajas2": "Contamos con un departamento de gestión administrativa y comercial especializado en el sector energético.",
+        "ventajas3": "Ofrecemos un sistema de comisiones ambicioso con pagos diarios.",
+        "ventajas4": "Respaldamos tu proyecto con financiación a medida para que puedas establecer tu propia delegación.",
+        "ventajas5": "Ponemos a tu servicio nuestro departamento de recursos humanos para facilitar la creación y posterior formación de tu propio equipo de ventas.",
+        "ventajas6": "Disponemos de herramientas tecnológicas de creación propia para facilitar la labor del agente comercial.",
+        "ventajas7": "Garantizamos las renovaciones anuales de tu cartera en más de un 95%.",
+        "Buscamos_delegaciones": "Buscamos delegaciones comerciales y proporcionamos:",
+        "Buscamos_delegaciones1": "El mejor equipo humano.",
+        "Buscamos_delegaciones2": "Gestión de cartera propia.",
+        "Buscamos_delegaciones3": "Clientes referenciados para gestiones directas.",
+        "Buscamos_delegaciones4": "Un sistema financiero probado y garantizado.",
+        "Buscamos_delegaciones5": "Trabajar con un producto posicionado en el mercado y con garantías de éxito desde el primer mes.",
+        "Buscamos_delegaciones6": "Crecimiento profesional y estabilidad laboral.",
+        "Forma_parte": "Forma parte del éxito",
+        "Unete": "Únete a ElectryConsulting 🚀"
+    },
+
+    "Servicios": { 
+        "Servicios":"Servicios",
+        "Servicios_subtitulo":"Personalizados a través de la figura del asesor energético.",
+        "Gestion_energetica":"Gestión energética",
+        "Gestion_energetica_texto":"La base de un ahorro efectivo y duradero reside en la gestión energética de todos los procesos productivos de un negocio.<br><br> Es fundamental <strong> planificar una estrategia </strong> con las herramientas necesarias para controlar todas y cada una de las instalaciones de nuestra compañía, así como todos los procedimientos que requieran consumo energético con el fin de generar grandes ahorros en las facturas finales. <br><br><strong>ElectryConsulting asume por completo la gestión energética </strong> de tu negocio para que no tengas que preocuparte por nada.<br><br> Elaboramos un plan de actuación con el fin principal de conseguir grandes ahorros, pero también de ayudarte a adaptar tu compañía a la normativa vigente en lo que a la energía se refiere.",
+        "Estudios_tecnicos":"Estudios técnicos",
+        "Estudios_tecnicos_texto":"El primer paso para realizar una correcta gestión de los recursos energéticos <strong>será analizar todos los procesos </strong>que se llevan a cabo, así como las instalaciones y sus componentes con la intención de detectar oportunidades de ahorro.<br><br>Mediante esta <strong>auditoría realizada de forma gratuita </strong>por los profesionales de ElectryConsulting, presentaremos un informe con las medidas que se pueden adoptar para lograr un consumo eficiente de la energía que nos llevará a reducir el importe de tus facturas de manera considerable.",
+        "Monitorizacion_energetica":"Monitorización energética",
+        "Monitorizacion_energetica_texto":"La monitorización que ElectryConsulting plantea a través de sistemas tecnológicos de última generación permite <strong> mantener en el tiempo el ahorro conseguido </strong> gracias a las optimización energética. <br><br>Tras reducir el importe de tus facturas el primer mes podrás seguir haciéndolo de forma continua gracias a la monitorización adaptada de ElectryConsulting.<br><br><strong>Supervisamos de forma periódica </strong>tus suministros y consumos energéticos ofreciéndote informes de calidad que muestran el ahorro constante de tus instalaciones.",
+        "Eficiencia_energetica":"Eficiencia energética",
+        "Eficiencia_energetica_texto":"La base del ahorro en los suministros de luz y gas parte de la implementación de la eficiencia energética tanto en los hogares como en los negocios. <br /><br /><strong>Algunas de las soluciones</strong> que ofrecemos en esta materia son:",
+       
+        "Iluminacion_led":"Iluminación led",
+        "Iluminacion_led_text":"para ahorrar energía y dinero con solo encender la luz.",
+        "Productos_fotovoltaicos":"Productos fotovoltaicos",
+        "Productos_fotovoltaicos_text":"de última tecnología para sacar el máximo partido a la energía solar y pensados para tu propia planta de autoconsumo.", 
+        "Cargadores":"Cargadores de coches eléctricos",
+        "Cargadores_text":"para disponer de completa autonomía y no depender de los puntos ubicados por la ciudad.",
+        "Baterias_de_condensadores":"Baterías de condensadores",
+        "Baterias_de_condensadores_text":"para compensar la energía reactiva generada y evitar penalizaciones en la factura de luz.",
+        "Contadores_de_telemedida":"Contadores de telemedida",
+        "Contadores_de_telemedida_text":"para cumplir con la normativa actual y pagar menos por su alquiler.",
+        "cta_texto":"Tenemos todas las herramientas para ayudarte a ahorrar, ¿empezamos?"
+
+    },
+
+    "Testimonios": {
+        "testimonios": "Testimonios",
+        "Testimonios_text":"Nuestros clientes confirman que gracias a la asesoría energética de ElectryConsulting pueden pagar menos por sus facturas de luz y gas.",
+        "Testimonio_cliente":"Hace 4 años que ElectryConsulting gestiona todos mis suministros energéticos, teniendo una atención personal excelente y unos ahorros continuados en el tiempo.",
+        "Testimonio_cliente_nombre":"Ángel Sánchez. A Coruña",
+        "Testimonio_cliente_cargo":"Gerente de Restaurante Casa del Agua, Restaurante Finisterrae, Restaurante Ansaca, Hostelgestión del Noroeste, SL.",
+        "Testimonio_segundo_cliente":"Gracias a la gestión de Electryconsulting mis puntos de suministro están optimizados y periódicamente revisados, lo que supone un ahorro para los clientes y la tranquilidad de tener una gestión de confianza antes problemas o dudas con el suministro.",
+        "Testimonio_segundo_cliente_nombre":"Inmaculada Mundina Cebrian",
+        "Testimonio_segundo_cliente_cargo":"Asesoría Bellmunt Vicent SL"
+    },
+
+    "Clientes":{
+        "Nuestros_clientes":"Nuestros clientes",
+        "Nuestros_clientes_subtitulo":"Más de 55.000 usuarios se benefician de nuestras soluciones energéticas",
+        "Particulares":"Particulares",
+        "Particulares_text":"Para muchas familias el pago de las facturas de luz y gas a final de mes supone un gran esfuerzo. Por ello, desde ElectryConsulting analizamos sus hábitos de consumo y proponemos tarifas adaptadas tanto en electricidad como en gas gracias a nuestros acuerdos comerciales con las principales compañías energéticas del país.",
+        "Pymes":"Pymes",
+        "Pymes_text":"Las pequeñas y medianas empresas procuran reducir todos sus gastos al mínimo para obtener la mayor rentabilidad en su actividad sin competir con las grandes compañías. Garantizamos ser una figura mediadora dentro de tu empresa o negocio, pensando siempre en ti y valorando las mejores opciones en materia energética del mercado eléctrico que satisfagan tus necesidades inmediatas y de futuro.",
+        "Grandes_cuentas":"Grandes cuentas",
+        "Grandes_cuentas_text":"Analizamos la curva de consumo de manera cuidadosa en función de las horas, días, años y el global del consumo en tu factura eléctrica. Nuestro servicio consiste en aportar soluciones energéticas que se traducen en ahorros importantes en tu factura eléctrica, sin cuotas fijas y sin cargos porcentuales sobre tu ahorro, sólo con un trato personalizado.",
+        "Administradores_fincas":"Administradores de fincas",
+        "Administradores_fincas_text":"El paso de los años nos ha llevado a especializarnos en distintos segmentos y los administradores de fincas es uno más de ellos. Contamos con sistemas específicos para que este colectivo pueda gestionar de manera rápida y sencilla los suministros de sus administrados. Ahorra tiempo y ofrece el servicio más exclusivo y personalizado a tus comunidades de propietarios.",
+        "Organismos_publicos":"Organismos públicos",
+        "Organismos_públicos_text":"Las administraciones a la hora de desarrollar sus funciones suelen partir de un presupuesto cerrado y, en muchas ocasiones, reducido, lo que hace que sea complicado encontrar compañías que encajen en ese perfil ahorrador. Desde ElectryConsulting nos comprometemos a encontrar medidas de ahorro energético adaptadas a las posibilidades de las entidades públicas.",
+        "Clientes_cta_text":"Tenemos todas las herramientas para ayudarte a ahorrar, ¿empezamos?"
+    },
+
+    "Blog":{
+        "Blog":"Blog",
+        "Blog_text":"Las últimas noticias del sector energético"
+    },
+
+    "Contactanos":{
+        "Contactanos":"Contáctanos",
+        "Contactanos_text":"Habla con nosotros y cuéntanos qué necesitas",
+        "Contactanos_telefono":"902 430 822",
+        "Contactanos_mail":"info@electryconsulting.com",
+        "Contactanos_direccion":"Plaza Urquinaona, 7, 08010 Barcelona",
+        "te_llamamos":"Si lo prefieres te llamamos nosotros",
+        "Escribenos":"Escríbenos",
+        "Escribenos_text":"Estaremos encantados de atenderte"
+    },
+
+    "trabaja_con_nosotros": {
+        "trabaja_con_nosotros":"Trabaja con nosotros",
+        "trabaja_con_nosotros_subtitulo":"5 razones para trabajar en ElectryConsulting",
+        "Razones_1":"Para seguir creciendo necesitamos a gente como tú, inconformista, que quiera desarrollarse profesionalmente en una empresa diferente.",
+        "Razones_2":"En ElectryConsulting se premia el esfuerzo y anualmente los mejores agentes disfrutan de grandes incentivos.",
+        "Razones_3":"Disfrutamos haciendo felices a nuestros equipos y si te sumas nos esforzaremos a diario porque así sea.",
+        "Razones_4":"Llevamos más de 10 años desarrollando las mejores ideas, explorando nuevos mercados y lanzándonos a los proyectos más ambiciosos.",
+        "Razones_5":"Somos familia. Te haremos sentir como en casa en esta gran comunidad que hoy es ElectryConsulting.",
+        "trabaja_form_titulo":"Forma parte del éxito",
+        "trabaja_form_subtitulo":"Únete a ElectryConsulting 🚀",
+        "Tienes_experiencia":"¿Tienes experiencia en el sector energético?",
+        "Tienes_cartera":"¿Tienes cartera propia?",
+        "gestion_de_equipos":"¿Tienes experiencia en la gestión de equipos?",
+        "si":"Sí",
+        "no":"No",
+        "Ser_asesor_energetico":"Ser asesor energético en ElectryConsulting significa:",
+        "Ser_asesor_energetico_1":"Pagos diarios, sin más, tal como suena y las mejores comisiones del mercado.",
+        "Ser_asesor_energetico_2":"Aplicaciones en exclusiva diseñadas para ti.",
+        "Ser_asesor_energetico_3":"Ponemos a tu disposición personal cualificado para solventar tus dudas.",
+        "Ser_asesor_energetico_4":"Dispondrás de tu propia cartera de clientes lo que asegura tu futuro gracias a las renovaciones anuales.",
+        "Tienes_tu_propio_equipo":"¿Tienes tu propio equipo de ventas?",
+        "Tienes_tu_propio_equipo_text":"En ElectryConsulting siempre estamos dispuestos a compartir nuestro modelo de éxito para sumar socios colaboradores. Rellena el siguiente formulario, estaremos encantados de conocerte.",
+        "Eventos":"Eventos",
+        "Eventos_text":"Acumulamos 10 años de experiencia en el sector energético, pero también experiencias inolvidables gracias a los eventos de team building y jornadas motivacionales que celebramos a lo largo del año."
+    },
+
+    "Jobs": {
+        "ultimas_ofertas":"Últimas ofertas",
+        "Boton_adjuntar":"📑 Adjuntar CV",
+        "Boton_adjuntar_texto":"FORMATO: .PDF MÁXIMO 5MB",
+        "Form_trabaja_experiencia_comercial":"¿Tienes más de un año de experiencia comercial en ventas?",
+        "si":"Sí",
+        "no":"No",
+        "Form_trabaja_experiencia_sector":"¿Tienes experiencia en el sector energético?",
+        "Form_trabaja_experiencia_equipo":"¿Tienes experiencia en la gestión de equipos comerciales?"
+        
+    },
+
+    "Componentes" : {
+        "Header": {
+            "Quienes_somos": "QUIÉNES SOMOS",
+            "La_empresa": "La empresa",
+            "Delegaciones": "Delegaciones",
+            "Servicios": "SERVICIOS",
+            "Clientes": "NUESTROS CLIENTES",
+            "Blog": "BLOG",
+            "Contacto": "CONTACTO",
+            "Trabaja_con_nosotros": "CONTACTO",
+            "Acceso": "Acceso",
+            "Agentes": "Agentes",
+            "Colaboradores": "Colaboradores"
+        },
+
+        "Footer": {
+            "Quienes_somos": "Quiénes Somos",
+            "Empresa": "Empresa",
+            "Delegaciones": "Delegaciones",
+            "Clientes": "Nuestros clientes",
+            "Trabaja_con_nosotros": "Trabaja con nosotros",
+            "Servicios": "Servicios",
+            "Gestion_energetica": "Gestión energética",
+            "Estudios_tecnicos": "Estudios técnicos",
+            "Monitorizacion": "Monitorización",
+            "Eficiencia_energética":"Eficiencia energética",
+            "Contacto":"Contacto",
+            "Direccion_Barcelona":"Plaza Urquinaona, 7<br>08010 Barcelona<br><a href='mailto:info@electryconsulting.com'>info@electryconsulting.com</a><br>902 430 822",
+            "Direccion_Madrid":"Gran Vía, 16. 1º- 3ª<br>28013 Madrid<br>910 568 469<br><br>",
+            "Siguenos":"Síguenos",
+            "Facebook_url":"https://www.facebook.com/electryconsultingasesoria/",
+            "twitter_url":"https://twitter.com/tuasesorenergia?lang=es",
+            "instagram_url":"https://www.instagram.com/electryconsulting_oficial/",
+            "linkedin_url":"https://www.linkedin.com/company/electryconsulting",
+            "Footer_legal_text":"ElectryConsulting © 2020",
+            "Footer_legal_text_provacidad":"Política de privacidad",
+            "Footer_legal_text_cookies":"Política de cookies",
+            "Footer_legal_text_redes":"Política de redes sociales"
+                 
+        },
+
+        
+
+        "Cta_Ofertas": {
+            "Ofertas_text": "Ofertas de trabajo en todo el país",
+            "Ofertas_Boton_text": "Ofertas disponibles"
+        },
+
+        "Botones": {
+            "Mas_informacion": "Más información",
+            "Boton_solicitar_presupuesto": "Solicitar presupuesto",
+            "Boton_solicitar_informacion": "Solicitar información",
+            "Tienes_tu_propio_equipo_boton": "Inscribe tu equipo",
+            "Te_llamamos": "Te llamamos"
+        },
+
+        "Cta_Principal_Telefono": {
+            "texto_legal_tratamiento_datos":"ELECTRYCONSULTING ESPAÑA 2010 SL como responsable del tratamiento tratará tus datos con la finalidad de dar respuesta a tu consulta o petición. He leído y acepto las condiciones contenidas en la política de privacidad.",
+            "texto_legal_datos_terceros":"He leído y acepto recibir información comercial y autorizo la cesión de mis datos a ELECTRYCONSULTING ESPAÑA 2010 SL, así como a las empresas con las que colabora, incluidas en la política de privacidad."
+           
+        },
+
+        "Modal": {
+            "Solicitar_informacion": "Solicitar información sobre asesoría energética para",
+            "Solicitar_informacion_de": "Solicitar información de"
+        },
+
+        "InputsPlaceholder":{
+            "Nombre" : "Nombre",
+            "Nombre_Apellidos" : "Nombre y apellidos",
+            "Telefono" : "Teléfono",
+            "Enviar" : "Enviar",
+            "Asunto" : "Asunto",
+            "Email" : "Email",
+            "Te_llamamos":"Te llamamos",
+            "ultimo_puesto":"Último puesto",
+            "Horario":"Horario de contacto",
+            "Ciudad":"Ciudad",
+            "Archivo":"Archivo",
+            "Adjuntar":"Adjuntar CV",
+            "Enviar_candidatura":"Enviar candidatura",
+            "FORMATO":"FORMATO: .PDF MÁXIMO 5MB (* OBLIGATORIO)",
+            "Provincia":"Provincia",
+            "gracias": " ¡Gracias! Hemos recibido tu mensaje.",
+            "error": "¡Ups! Hubo un problema. Inténtalo de nuevo o escríbanos a"
+        },
+
+        "legalPolicy": {
+            "politica_de_privacidad": "política de privacidad.",
+            "Politica_de_privacidad": "Política de privacidad.",
+            "Politica_de_cookies": "Política de cookies",
+            "Politica_de_redes": "Política de redes sociales",
+            "legal_text_advertising_text": "He leído y acepto recibir información comercial y autorizo la cesión de mis datos a ELECTRYCONSULTING ESPAÑA 2010 SL, así como a las empresas con las que colabora, incluidas en la ",
+            "legal_text_advertising_text_jobs": " He leído y acepto recibir información comercial y autorizo la cesión de mis datos a ELECTRYCONSULTING ESPAÑA 2010 SL, así como a las empresas con las que colabora, incluidas en la",
+            "legal_text_policy": " ELECTRYCONSULTING ESPAÑA 2010 SL como responsable del tratamiento tratará tus datos con la finalidad de dar respuesta a tu consulta o petición. He leído y acepto las condiciones contenidas en la ",
+            "legal_text_policy_jobs": " ELECTRYCONSULTING ESPAÑA 2010 SL como responsable del tratamiento tratará tus datos con la finalidad de gestionar tu participación en los procesos de selección de nuestra entidad. He leído y acepto las condiciones contenidas en la  "
+           
+        }
+        
+    },
+
+    "Routes": {
+        "politica_de_privacidad": "/politica-de-privacidad",
+        "politica_de_cookies": "/politica-de-cookies",
+        "politica_de_redes": "/politica-de-redes-sociales",
+        "somos": "/somos",
+        "delegaciones": "/delegaciones",
+        "clientes": "/clientes",
+        "trabaja_con_nosotros": "/trabaja-con-nosotros",
+        "site_electryconsulting_com": "https://site.electryconsulting.com/",
+        "servicios":"/servicios",
+        "blog":"/blog",
+        "contacto":"/contacto"
+
+    },
+
+    "Header_Main": {
+        "Acceso":"Acceso",
+        "Agentes":"Agentes",
+        "Colaboradores":"Colaboradores",
+        "Quienes_somos": "Quiénes somos",
+        "La_empresa": "La empresa",
+        "delegaciones":"Delegaciones",
+        "Servicios":"Servicios",
+        "Nuestros_clientes":"Nuestros clientes",
+        "Blog":"Blog",
+        "Contacto":"Contacto"
+
+
+
+    }
+}
